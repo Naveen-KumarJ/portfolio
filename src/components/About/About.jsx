@@ -1,7 +1,7 @@
 import React from "react";
 import ReactTypingEffect from "react-typing-effect";
 import Tilt from "react-parallax-tilt";
-import profileImage from "src/assets/profile-pic-anime.png";
+import profileImage from "../../assets/profile-pic-anime.png";
 
 const About = () => {
   return (
