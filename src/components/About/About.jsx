@@ -1,7 +1,7 @@
 import React from "react";
 import ReactTypingEffect from "react-typing-effect";
 import Tilt from "react-parallax-tilt";
-import profileImage from "../../assets/Profile-pic-anime.png";
+// import profileImage from "../../assets/Profile-pic-anime.png";
 
 const About = () => {
   return (
@@ -65,7 +65,7 @@ const About = () => {
             gyroscope={true}
           >
             <img
-              src={profileImage}
+              src='/Profile-pic-anime.png'
               alt="Naveen Kumar J"
               className="w-full h-full rounded-full object-top object-cover shadow-[0_10px_20px_rgba(168,85,247,0.4)]"
             />
